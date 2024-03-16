@@ -1,2 +1,2 @@
-* [Home](/)
-* [about me](about me.md)
+- [Home](/)
+- [about](about.md)
