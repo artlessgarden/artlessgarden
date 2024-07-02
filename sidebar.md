@@ -1,4 +1,4 @@
 - [Home](/)
 - [sidebar](sidebar.md)
-- [komand](komand.md)
+- [kmonad](kmonad.md)
 - [md.md](md.md)
